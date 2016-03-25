@@ -1,0 +1,15 @@
+{
+  "title": "Darkwallet",
+  "name": "darkwallet",
+  "version": "0.1.0",
+  "description": "Your keys. Your privacy. Your sovereignty.",
+  "main": "lib/main.js",
+  "author": "Alexander J. Salas B.",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "AGPL-3.0",
+  "keywords": [
+    "jetpack"
+  ]
+}
